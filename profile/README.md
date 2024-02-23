@@ -23,6 +23,9 @@
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Team-INSERT&repo=Something_Big_Frontend&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Team-INSERT&repo=Something_Big_Frontend">
 </picture>](https://github.com/Team-INSERT/Something_Big_Frontend)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Team-INSERT&repo=bssm-checkin&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Team-INSERT&repo=bssm-checkin">
+</picture>](https://github.com/Team-INSERT/bssm-checkin)
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Team-INSERT&repo=Something_Big_Backend&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Team-INSERT&repo=Something_Big_Backend">
 </picture>](https://github.com/Team-INSERT/Something_Big_Backend)
