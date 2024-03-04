@@ -10,7 +10,7 @@
 </picture>](https://github.com/Team-INSERT/BUMAWIKI_WEB_V2)
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Team-INSERT&repo=BUMAWIKI_WEB_V3&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Team-INSERT&repo=BUMAWIKI_WEB_V3">
-</picture>](https://github.com/Team-INSERT/BUMAWIKI_SERVER_V3)
+</picture>](https://github.com/Team-INSERT/BUMAWIKI_WEB_V3)
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Team-INSERT&repo=BUMAWIKI_SERVER_V2&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Team-INSERT&repo=BUMAWIKI_SERVER_V2">
 </picture>](https://github.com/Team-INSERT/BUMAWIKI_SERVER_V2)
